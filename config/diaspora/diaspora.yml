@@ -414,7 +414,7 @@ configuration: ## Section
     ## Set this to false to prevent people from signing up to your pod
     ## without an invitation. Note that this needs to be set to true
     ## (or commented out) to enable the first registration (you).
-    #enable_registrations: true
+    enable_registrations: false
 
     ## Auto-follow on sign-up (default=true)
     ## Users will automatically follow a specified account on creation.
